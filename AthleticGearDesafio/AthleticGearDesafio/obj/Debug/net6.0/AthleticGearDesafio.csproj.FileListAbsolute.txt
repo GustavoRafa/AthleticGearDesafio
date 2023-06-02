@@ -1,0 +1,15 @@
+C:\Users\gugur\Desktop\Projetos\AthleticGearDesafio\AthleticGearDesafio\bin\Debug\net6.0\AthleticGearDesafio.exe
+C:\Users\gugur\Desktop\Projetos\AthleticGearDesafio\AthleticGearDesafio\bin\Debug\net6.0\AthleticGearDesafio.deps.json
+C:\Users\gugur\Desktop\Projetos\AthleticGearDesafio\AthleticGearDesafio\bin\Debug\net6.0\AthleticGearDesafio.runtimeconfig.json
+C:\Users\gugur\Desktop\Projetos\AthleticGearDesafio\AthleticGearDesafio\bin\Debug\net6.0\AthleticGearDesafio.dll
+C:\Users\gugur\Desktop\Projetos\AthleticGearDesafio\AthleticGearDesafio\bin\Debug\net6.0\AthleticGearDesafio.pdb
+C:\Users\gugur\Desktop\Projetos\AthleticGearDesafio\AthleticGearDesafio\obj\Debug\net6.0\AthleticGearDesafio.csproj.AssemblyReference.cache
+C:\Users\gugur\Desktop\Projetos\AthleticGearDesafio\AthleticGearDesafio\obj\Debug\net6.0\AthleticGearDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gugur\Desktop\Projetos\AthleticGearDesafio\AthleticGearDesafio\obj\Debug\net6.0\AthleticGearDesafio.AssemblyInfoInputs.cache
+C:\Users\gugur\Desktop\Projetos\AthleticGearDesafio\AthleticGearDesafio\obj\Debug\net6.0\AthleticGearDesafio.AssemblyInfo.cs
+C:\Users\gugur\Desktop\Projetos\AthleticGearDesafio\AthleticGearDesafio\obj\Debug\net6.0\AthleticGearDesafio.csproj.CoreCompileInputs.cache
+C:\Users\gugur\Desktop\Projetos\AthleticGearDesafio\AthleticGearDesafio\obj\Debug\net6.0\AthleticGearDesafio.dll
+C:\Users\gugur\Desktop\Projetos\AthleticGearDesafio\AthleticGearDesafio\obj\Debug\net6.0\refint\AthleticGearDesafio.dll
+C:\Users\gugur\Desktop\Projetos\AthleticGearDesafio\AthleticGearDesafio\obj\Debug\net6.0\AthleticGearDesafio.pdb
+C:\Users\gugur\Desktop\Projetos\AthleticGearDesafio\AthleticGearDesafio\obj\Debug\net6.0\AthleticGearDesafio.genruntimeconfig.cache
+C:\Users\gugur\Desktop\Projetos\AthleticGearDesafio\AthleticGearDesafio\obj\Debug\net6.0\ref\AthleticGearDesafio.dll
